@@ -18,3 +18,4 @@ Extended Data Figure 4. Large cohort data validated that the relative abundance 
 Data Availability:
 The data supporting the conclusions of this article are available in Genome Sequence Archive of the BIG Data Center at the Beijing Institute of Genomics, Chinese Academy of Science, under accession number CRA004159 (16S rRNA amplicon sequencing data) and CRA005909 (Metagenomic shotgun sequencing data) (http://bigd.big.ac.cn/gsa-human).
 
+
